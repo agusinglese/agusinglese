@@ -1,5 +1,11 @@
 ### Hi! I´m Agustina Inglese 👋
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+
 
 ```javascript
 const aboutMe = {
@@ -19,6 +25,14 @@ const aboutMe = {
    challenge: "I’m working to be the best.",
 };
 ```
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+
+---
 <!--
 **agusinglese/agusinglese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
