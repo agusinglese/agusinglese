@@ -22,7 +22,7 @@ const aboutMe = {
       databases: ["mySQL", "SQLServer", "PostgreSQL"],
       deployment: ["Heroku", "Vercel"]
    },
-   tools: ["GitHub", "VSCode"]
+   tools: ["GitHub", "VSCode"],
    currentOccupation: ["last months working as an industrial engineer, now open for new job opportunities"],
    challenge: "I’m working to be the best.",
 };
