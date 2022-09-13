@@ -1,7 +1,5 @@
 ### Hi! I´m Agustina Inglese 👋
 
-<!--
-**agusinglese/agusinglese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ```javascript
 const aboutMe = {
@@ -21,6 +19,8 @@ const aboutMe = {
    challenge: "I’m working to be the best.",
 };
 ```
+<!--
+**agusinglese/agusinglese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
