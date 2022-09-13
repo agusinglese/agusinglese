@@ -1,9 +1,9 @@
-### Hi! I´m Agustina Inglese 👋
+
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://user-images.githubusercontent.com/101023416/190010561-256b2b62-aeb8-4843-97c3-77cb50f39b55.jpg" width="100%" heigth="80%" title="Intro Card" alt="Intro Card">
 </p>
 
 
