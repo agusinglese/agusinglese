@@ -1,7 +1,26 @@
-### Hi there 👋
+### Hi! I´m Agustina Inglese 👋
 
 <!--
 **agusinglese/agusinglese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+```javascript
+const aboutMe = {
+   pronouns: "she" | "her",
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css: ["Material ui", "Bootstrap", "Chakra ui"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],   
+      },
+      databases: ["mySQL", "SQLServer", "PostgreSQL"],
+   },
+   currentOccupation: ["last months working as an industrial engineer, now open for new job opportunities"],
+   challenge: "I’m working to be the best.",
+};
+```
 
 Here are some ideas to get you started:
 
