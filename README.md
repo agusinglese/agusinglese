@@ -33,8 +33,6 @@ const aboutMe = {
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=agusinglese&show_icons=true&hide_border=true&&title_color=1d617a&icon_color=61c2a2)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/agusinglese)
-
 ---
 
 # My projects
