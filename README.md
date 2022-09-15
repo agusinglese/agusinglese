@@ -10,7 +10,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   code: [Javascript, HTML, CSS],
+   code: [JavaScript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
@@ -22,9 +22,9 @@ const aboutMe = {
       databases: ["mySQL", "SQLServer", "PostgreSQL"],
       deployment: ["Heroku", "Vercel"]
    },
-   tools: ["GitHub", "VSCode"],
-   currentOccupation: ["last months working as an industrial engineer, now open for new job opportunities"],
-   challenge: "I’m working to be the best.",
+   tools: ["GitHub","Git", "VSCode"],
+   currentOccupation: ["last months working as an industrial engineer", "now open for new job opportunities"],
+   challenge: "I’m working to learn TypeScript.",
 };
 ```
 
