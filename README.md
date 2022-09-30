@@ -19,7 +19,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"],   
       },
-      databases: ["ElephantSQL", "PostgreSQL"],
+      databases: ["PostgreSQL", "MongoDB"],
       deployment: ["Heroku", "Vercel"]
    },
    tools: ["GitHub","Git", "VSCode"],
